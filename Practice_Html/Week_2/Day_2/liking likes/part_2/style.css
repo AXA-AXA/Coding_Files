@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: 0px auto;
+    width: 950px;
+    align-items: center;
+}
+.nav{
+    width: 950px;
+    background-color: black;
+    height: 75px;
+    margin: 0px auto;
+}
+.logo{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    padding: 2%;
+}
+
+.con{
+    width: 725px;
+    height: 150px;
+    margin-left: 220px;
+    margin-top: 50px;
+    display:flex;
+    border: solid 2px black;
+ 
+}
+h1{
+    display: inline;
+    margin: 20px;
+    min-width: 200px;
+}
+.likes{
+    display: inline;
+    margin: 25px;
+   /*lazy*/
+    min-width: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#b{
+    height: 32px;
+    background-color: gold;
+    padding: 5px;
+    margin: 25px;
+    border: solid 2px black;
+}
+
+.userAcc{
+        position: absolute;
+        width: 200px;
+        height: 250px;
+        border: solid 2px black;
+        margin-top: 50px;
+    
+}
+.userCon{
+    width: 100px;
+    height: 400px;
+    margin: 0px auto;
+}
+.img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+}
+.addImg{
+   
+}
+h3{
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.info{
+    position: absolute;
+    margin: 100px;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    
+}
+a{display: inline;}
+p{display: inline;}
+.notes{
+    position: absolute;
+    top: 225px;
+    left: 90%;
+    width: 112px;
+    padding: 25px;
+    background-color: gold;
+}
+.pieceOfTape{
+    position: absolute;
+    transform: rotate(-10deg);
+    width: 50px;
+    padding: 10px;
+    background-color: red;
+    opacity: 65%;
+    top: 200px;
+    left: 95%;
+}

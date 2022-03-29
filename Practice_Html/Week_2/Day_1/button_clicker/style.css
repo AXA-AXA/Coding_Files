@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-Container{
+    width: 1000px;
+    height: 75px;
+    margin: 0px auto;
+    background-color: grey;
+    display:flex;
+}
+.logo{
+   margin-left: 50px;
+   font-size: 32px;
+   align-self: center;
+}
+#search{
+        height: 32px;
+        margin-left: 100px;
+        align-self: center;
+}
+#loginButton{
+    display: flex;
+    height: 32px;
+    background-color: blue;
+    color: white;
+    border-style: solid;
+    border-color: black;
+    align-self: center;
+    margin: 25%;
+}
+
+.main-container{
+    width: 500px;
+
+}
+.box{
+        height: 200px;
+        width: 400px;
+        border-style: solid;
+        border-color: black;
+        border-width: 3px;
+        margin-top: 10px;
+        margin-left:13%;
+        position: absolute;
+}
+
+.box2{
+    margin-top: 225px;  
+}
+.img{
+    size: 150px;
+}
+.pronoun{
+    font-size: 18px;
+}
+.info{
+    font-size: 20px;
+    width: 250px;
+    margin-left: 25%;
+}
+
+.likes{
+    background-color: yellow;
+    padding: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 10%;
+}
+.box3{
+    margin-left: 60%;
+    height: 200px;
+    width: 335px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin-top: 10px;
+    position: absolute;
+}
+.box3Container{
+    margin: 10%;
+}
+.web-Adver{
+    font-size: 32px;
+}
+.addDef{
+    background-color: teal;
+    color: black;
+    font-size: 24px;
+    border-style: solid;
+    border-color: black;
+    margin: 0px auto;
+    margin-top: 10%;
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}

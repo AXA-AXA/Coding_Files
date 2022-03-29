@@ -1,0 +1,40 @@
+.eduContainer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    width: 35%;
+    height: 48px;
+    margin: 250px;
+    min-width: 400px;
+    margin-left: 20%;
+    outline: 2px solid rgb(167, 166, 166);
+    border-bottom: 255px solid;
+    margin-bottom: -1px;
+}
+.container-Title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    padding-left:25px;
+    font-weight: bold;
+    min-width: 20%;
+
+}
+.information{
+    margin-left: 15%;
+    margin: 20px;
+    color: black;
+    width: 400px;
+}
+.edu-Title{
+    font-weight: bold;
+}
+.edu-Date{
+    padding: 20px;
+    padding-left: 0px;
+    opacity: 50%;
+}
+.edu-Descr{
+    font-size: 12px;
+
+}
+

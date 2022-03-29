@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile-container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: teal;
+    width: 35%;
+    height: 96px;
+    min-width: 400px;
+    margin-top: 30px;
+    margin-left: 20%;
+   
+}
+
+.topBar2{
+    height:40px;
+    width: 100%;
+    background-color: teal;
+    display: inline;
+
+}
+.user-Profile{
+    padding:40px;
+    outline: 2px solid rgb(167, 166, 166);
+    border-bottom: 0px solid;
+    
+}
+
+.profile-pic{
+
+    width: 100px;
+    border-radius: 100px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    
+    
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+.location{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.location-icon{
+    width: 10px;
+}
+.description{
+    font-family: Arial;
+    font-size: 15px;
+}
+.settings-icon{
+    width: 15px;
+}   
+.edit-profile{
+    display: inline-block;
+    color: rgb(65, 90, 197);
+}
+.row{
+    display: inline-block;
+}
+

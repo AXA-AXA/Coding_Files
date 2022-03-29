@@ -1,0 +1,35 @@
+.connReqContainer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    width: 20%;
+    max-width: 20%;
+    min-width: 300px;
+    height: 48px;
+    position: absolute;
+     display: inline-block;
+     min-width: 300px;
+     margin-left: 65%;
+     top: 105px;
+
+     
+     outline: 2px solid rgb(167, 166, 166);
+     border-bottom: 255px solid;
+     margin-bottom: -1px;
+}
+.conn-Req-User-Container{
+    display: inline;
+}
+.conn-User-Link{
+        display: inline-block;
+        color: black;
+        padding-right: 40px;
+        min-width: 60px;
+    
+    }
+.check{
+
+}
+.close{
+
+}

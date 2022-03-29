@@ -1,0 +1,37 @@
+#container{
+    width: 950px;
+    background-color: silver;
+
+}
+
+.conone{
+    background: red;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+
+.con2{
+    background-color: green;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+
+.con3{
+    background-color: blue;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    height: 150px;
+}
+

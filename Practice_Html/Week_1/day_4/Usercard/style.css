@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*
+
+  */
+.container{
+    /* Main Container */
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 650px;
+        margin: 0px auto;
+        padding-bottom: 200px;
+        border-color: grey;
+        border-width: 3px;
+        border-style: solid;
+        border-top: teal;
+     
+}
+.topbar{
+    margin-top: 10px;
+    padding-top: 25px;
+    padding-left: 25px;
+    background-color: teal;
+    height: 50px;; 
+}
+.container-2{
+    
+}
+
+.profile-pic{
+    width: 100px;
+}
+.name{
+
+}
+.location{
+    display: inline;
+}
+.location-icon{
+    width: 10px;
+}
+.description{
+
+}
+.settings-icon{
+    width: 15px;
+}
+
+.edit-profile{
+    display: inline-block;
+}
+.row{
+    display: inline;
+}

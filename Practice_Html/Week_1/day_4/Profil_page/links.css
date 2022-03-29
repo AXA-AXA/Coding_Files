@@ -1,0 +1,62 @@
+.nav-Container{
+    background-color: black;    
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 75px;
+    display: flex;
+    
+
+}
+.logo{
+    font-size: 35px;
+    padding-left:20%;
+    padding-top: 1%;
+}
+.links{
+    padding-top:1.5%;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+a{
+    text-decoration: none;
+   
+}
+a:hover{
+   font-weight: bold;
+}
+.signOut{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: teal;
+    color: white;
+    display: flex;
+    border: none;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 15%;
+    height: 35px;
+    border-radius: 2px;
+    min-width: 100px;
+ 
+}
+.signOut:hover{
+    background-color: white;
+    color: black;
+}
+
+.find-Connections-Link{
+    min-width: 200px;
+    color: white;
+}
+.home-Link{
+    min-width: 50px;
+    color: white;
+}
+
+.user-Profile-Link{
+    min-width: 100px;
+    color: white;
+    padding-left: 10px;
+}

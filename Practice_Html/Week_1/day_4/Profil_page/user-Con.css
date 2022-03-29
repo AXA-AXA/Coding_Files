@@ -1,0 +1,61 @@
+.user-Conn-Container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 48px;
+    position: absolute;
+     min-width: 300px;
+     margin-left: 65%;
+     top: 450px;
+
+     outline: 2px solid rgb(167, 166, 166);
+     border-bottom: 255px solid;
+     margin-bottom: -1px;
+     
+}
+.conn-Notifcations{
+    display:inline-block;
+    margin-left: 30px;
+    border-radius: 100%;
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;
+    background-color:grey;
+    color: black;
+    opacity: 75%;
+}
+.container-Title{
+    display:inline-block;
+}
+.connections-container{
+
+}
+.con-Request{
+
+}
+
+.img2{
+    width: 50px;
+    border-radius: 100px;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+}
+.conn-Request-Link{
+    color: black;
+    display: inline-block;
+
+}
+
+.viewMore{
+    margin-top: 5px;
+    outline: 2px solid rgb(167, 166, 166);
+    border-bottom: 5px solid; 
+}
+
+.viewMore-Link{
+    margin: 10px;
+    text-decoration: underline;
+}
